@@ -2,6 +2,7 @@
 ## 💻 Opis projekta
 
 V tem projektu sem naredil svoj šolski urnik z jezikoma HTML in CSS. 
+Link: https://github.com/majklaj/Opis/blob/main/solskiUrnik.zip
 
 ## 🧠 Kaj sem se naučil
 
