@@ -9,9 +9,9 @@ Naučil sem se, kako se z uporabo HTML-ja ustvari tabela in se jo uredi z jeziko
 
 Ugotovil sem tudi, kaj pomenijo značke, kot so:
 
-table - tabela 
-tr - vrstica 
-th - glava tabele 
+**table** - tabela 
+**tr** - vrstica 
+**th** - glava tabele 
 
 ## 🥁 Zanimiva stvar o meni
 
